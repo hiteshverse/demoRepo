@@ -1,3 +1,4 @@
+
 B
 B:wq
 
@@ -25,6 +26,4 @@ B
 B
 B
 B
-
-
 temp text
